@@ -1,0 +1,159 @@
+{
+  "programming_languages": [
+    "Python", "JavaScript", "Java", "C++", "C#", "C", "Go", "Rust", 
+    "TypeScript", "PHP", "Ruby", "Swift", "Kotlin", "Scala", "R",
+    "MATLAB", "Perl", "Objective-C", "Dart", "Elixir", "Haskell",
+    "Clojure", "F#", "Julia", "Lua", "VBA", "Shell Scripting", "Bash",
+    "PowerShell", "SQL", "HTML", "CSS", "SASS", "LESS"
+  ],
+  "frameworks_libraries": [
+    "React", "Angular", "Vue.js", "Svelte", "Next.js", "Nuxt.js",
+    "Django", "Flask", "FastAPI", "Express.js", "Node.js", "Spring Boot",
+    "Spring Framework", "ASP.NET", ".NET Core", "Ruby on Rails",
+    "Laravel", "Symfony", "jQuery", "Bootstrap", "Tailwind CSS",
+    "Material UI", "Redux", "MobX", "GraphQL", "Apollo",
+    "TensorFlow", "PyTorch", "Keras", "scikit-learn", "Pandas",
+    "NumPy", "Matplotlib", "Seaborn", "D3.js", "Three.js"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "Cassandra",
+    "Oracle", "SQL Server", "SQLite", "DynamoDB", "Elasticsearch",
+    "Neo4j", "CouchDB", "MariaDB", "Firebase", "Supabase",
+    "Snowflake", "BigQuery", "Redshift"
+  ],
+  "cloud_devops": [
+    "AWS", "Azure", "Google Cloud Platform", "Docker", "Kubernetes",
+    "Jenkins", "GitLab CI", "GitHub Actions", "CircleCI", "Travis CI",
+    "Terraform", "Ansible", "Puppet", "Chef", "CloudFormation",
+    "Helm", "ArgoCD", "Prometheus", "Grafana", "Datadog",
+    "New Relic", "Splunk", "ELK Stack", "Nginx", "Apache"
+  ],
+  "development_tools": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Confluence",
+    "Visual Studio Code", "IntelliJ IDEA", "Eclipse", "PyCharm",
+    "Vim", "Emacs", "Postman", "Swagger", "VS Code", "Webpack",
+    "Babel", "npm", "Yarn", "Maven", "Gradle", "Make", "CMake"
+  ],
+  "testing_qa": [
+    "Jest", "Mocha", "Jasmine", "Pytest", "JUnit", "TestNG",
+    "Selenium", "Cypress", "Playwright", "Robot Framework",
+    "Cucumber", "JMeter", "LoadRunner", "Appium", "Postman Testing",
+    "Unit Testing", "Integration Testing", "End-to-End Testing",
+    "Test Driven Development", "Behavior Driven Development"
+  ],
+  "data_analytics": [
+    "Tableau", "Power BI", "Looker", "Excel", "Google Sheets",
+    "SQL", "Data Modeling", "ETL", "Data Warehousing", "Apache Spark",
+    "Apache Hadoop", "Apache Kafka", "Airflow", "dbt", "Snowflake",
+    "Statistical Analysis", "A/B Testing", "Regression Analysis",
+    "Time Series Analysis", "Predictive Modeling"
+  ],
+  "machine_learning_ai": [
+    "Machine Learning", "Deep Learning", "Natural Language Processing",
+    "Computer Vision", "Reinforcement Learning", "Neural Networks",
+    "CNN", "RNN", "LSTM", "Transformer Models", "BERT", "GPT",
+    "Feature Engineering", "Model Deployment", "MLOps", "AutoML",
+    "Hyperparameter Tuning", "Transfer Learning", "GANs"
+  ],
+  "design_creative": [
+    "Figma", "Sketch", "Adobe XD", "Adobe Photoshop", "Adobe Illustrator",
+    "Adobe InDesign", "Canva", "InVision", "Framer", "Principle",
+    "UI Design", "UX Design", "User Research", "Wireframing",
+    "Prototyping", "Design Systems", "Responsive Design",
+    "Accessibility", "WCAG", "Information Architecture",
+    "Interaction Design", "Visual Design", "Typography", "Color Theory"
+  ],
+  "marketing_sales": [
+    "SEO", "SEM", "Google Analytics", "Google Ads", "Facebook Ads",
+    "Content Marketing", "Email Marketing", "Social Media Marketing",
+    "Marketing Automation", "HubSpot", "Salesforce", "Marketo",
+    "Mailchimp", "Hootsuite", "Buffer", "Copywriting", "Brand Strategy",
+    "Market Research", "Customer Segmentation", "Lead Generation",
+    "Sales Funnel", "CRM", "Account Management", "B2B Sales",
+    "B2C Sales", "Cold Calling", "Negotiation", "Closing"
+  ],
+  "product_management": [
+    "Product Strategy", "Roadmapping", "User Stories", "Agile",
+    "Scrum", "Kanban", "Backlog Management", "Sprint Planning",
+    "Product Analytics", "Market Analysis", "Competitive Analysis",
+    "Stakeholder Management", "Requirements Gathering", "Prioritization",
+    "Go-to-Market Strategy", "Product Lifecycle", "OKRs", "KPIs",
+    "Feature Prioritization", "Product Roadmap", "User Acceptance Testing"
+  ],
+  "project_management": [
+    "Project Planning", "Resource Allocation", "Risk Management",
+    "Budget Management", "Gantt Charts", "Critical Path Method",
+    "Agile Methodology", "Waterfall Methodology", "Microsoft Project",
+    "Asana", "Monday.com", "Trello", "Notion", "Basecamp",
+    "Change Management", "Vendor Management", "Quality Assurance",
+    "Team Leadership", "Cross-functional Collaboration"
+  ],
+  "business_finance": [
+    "Financial Modeling", "Financial Analysis", "Budgeting", "Forecasting",
+    "Cost Analysis", "ROI Analysis", "P&L Management", "Excel Modeling",
+    "QuickBooks", "SAP", "Oracle Financials", "Accounting",
+    "GAAP", "IFRS", "Tax Planning", "Audit", "Compliance",
+    "Risk Assessment", "Business Intelligence", "Strategy Consulting"
+  ],
+  "cybersecurity": [
+    "Network Security", "Application Security", "Cloud Security",
+    "Penetration Testing", "Vulnerability Assessment", "SIEM",
+    "Firewall Management", "IDS/IPS", "Encryption", "PKI",
+    "Security Auditing", "Incident Response", "Threat Intelligence",
+    "OWASP", "ISO 27001", "NIST Framework", "SOC 2", "GDPR Compliance",
+    "Zero Trust Architecture", "Identity Management"
+  ],
+  "soft_skills": [
+    "Leadership", "Communication", "Team Collaboration", "Problem Solving",
+    "Critical Thinking", "Analytical Thinking", "Creative Thinking",
+    "Time Management", "Organizational Skills", "Attention to Detail",
+    "Adaptability", "Flexibility", "Emotional Intelligence",
+    "Conflict Resolution", "Decision Making", "Strategic Thinking",
+    "Mentoring", "Coaching", "Public Speaking", "Presentation Skills",
+    "Written Communication", "Active Listening", "Empathy",
+    "Customer Service", "Interpersonal Skills", "Work Ethic",
+    "Self-motivation", "Initiative", "Accountability", "Reliability"
+  ],
+  "customer_success": [
+    "Customer Onboarding", "Customer Retention", "Churn Analysis",
+    "Customer Lifecycle Management", "Success Metrics", "NPS",
+    "CSAT", "Customer Health Scoring", "Escalation Management",
+    "Account Expansion", "Renewal Management", "Training & Education",
+    "Technical Support", "Help Desk", "Ticketing Systems", "Zendesk",
+    "Intercom", "Gainsight", "Client Relationship Management"
+  ],
+  "operations": [
+    "Process Optimization", "Workflow Design", "Supply Chain Management",
+    "Inventory Management", "Logistics", "Vendor Management",
+    "Procurement", "Contract Negotiation", "Quality Control",
+    "Six Sigma", "Lean Manufacturing", "Continuous Improvement",
+    "Operations Analysis", "Capacity Planning", "Scheduling"
+  ],
+  "hr_recruiting": [
+    "Talent Acquisition", "Recruiting", "Sourcing", "Interviewing",
+    "Applicant Tracking Systems", "LinkedIn Recruiting", "Indeed",
+    "Greenhouse", "Lever", "Workday", "Employee Onboarding",
+    "Performance Management", "Compensation & Benefits", "HRIS",
+    "Employment Law", "Diversity & Inclusion", "Employer Branding",
+    "Talent Development", "Succession Planning", "HR Analytics"
+  ],
+  "writing_content": [
+    "Technical Writing", "Content Writing", "Copywriting", "Editing",
+    "Proofreading", "Documentation", "API Documentation", "Grant Writing",
+    "Business Writing", "Creative Writing", "Blogging", "Journalism",
+    "SEO Writing", "UX Writing", "Storytelling", "Research",
+    "Citation Management", "Style Guides", "Content Strategy"
+  ],
+  "other_technical": [
+    "API Development", "RESTful APIs", "Microservices", "System Design",
+    "Architecture Design", "Distributed Systems", "Event-driven Architecture",
+    "Message Queues", "Caching", "Load Balancing", "Scalability",
+    "Performance Optimization", "Code Review", "Debugging",
+    "Version Control", "CI/CD", "Agile Development", "Scrum Master",
+    "Blockchain", "Smart Contracts", "Web3", "Cryptography",
+    "IoT", "Embedded Systems", "Robotics", "Game Development",
+    "Unity", "Unreal Engine", "Mobile Development", "iOS Development",
+    "Android Development", "Cross-platform Development", "React Native",
+    "Flutter", "Xamarin"
+  ]
+}

@@ -1,0 +1,84 @@
+/* src/components/RoleMap/RoleMap.css */
+.role-map-container {
+  background: transparent;
+  padding: 2rem 0;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.role-map-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.role-map-header h2 {
+  font-size: 1.8rem;
+  color: #111827;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.role-map-header p {
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+.role-map-svg {
+  display: block;
+  width: auto;
+  max-width: none;
+  height: auto;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  border-radius: 16px;
+  transform: scale(0.73);
+  transform-origin: top center;
+}
+
+.axis-label {
+  fill: #6b7280;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+.role-button-group {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.role-button-group:hover .role-dot {
+  r: 10;
+  filter: brightness(1.2);
+}
+
+.role-button-group:hover .role-label {
+  font-weight: 600;
+  fill: #111827;
+}
+
+.role-dot {
+  transition: all 0.2s ease;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+}
+
+.role-label {
+  fill: #374151;
+  font-size: 11px;
+  font-weight: 500;
+  pointer-events: none;
+  transition: all 0.2s ease;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}

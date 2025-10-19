@@ -1,0 +1,25 @@
+/* src/components/common/TypewriterText.css */
+
+.typewriter-text {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+.cursor {
+  display: inline-block;
+  margin-left: 0.1rem;
+  animation: blink 1s infinite;
+  color: #10b981;
+}
+
+@keyframes blink {
+  0%, 49% {
+    opacity: 1;
+  }
+  50%, 100% {
+    opacity: 0;
+  }
+}
